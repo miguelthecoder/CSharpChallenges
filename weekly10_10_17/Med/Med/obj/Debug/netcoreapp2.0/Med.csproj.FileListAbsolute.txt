@@ -1,0 +1,11 @@
+/Users/miguelrosas/Projects/Med/Med/obj/Debug/netcoreapp2.0/Med.csprojResolveAssemblyReference.cache
+/Users/miguelrosas/Projects/Med/Med/obj/Debug/netcoreapp2.0/Med.csproj.CoreCompileInputs.cache
+/Users/miguelrosas/Projects/Med/Med/obj/Debug/netcoreapp2.0/Med.AssemblyInfoInputs.cache
+/Users/miguelrosas/Projects/Med/Med/obj/Debug/netcoreapp2.0/Med.AssemblyInfo.cs
+/Users/miguelrosas/Projects/Med/Med/bin/Debug/netcoreapp2.0/Med.deps.json
+/Users/miguelrosas/Projects/Med/Med/bin/Debug/netcoreapp2.0/Med.runtimeconfig.json
+/Users/miguelrosas/Projects/Med/Med/bin/Debug/netcoreapp2.0/Med.runtimeconfig.dev.json
+/Users/miguelrosas/Projects/Med/Med/bin/Debug/netcoreapp2.0/Med.dll
+/Users/miguelrosas/Projects/Med/Med/bin/Debug/netcoreapp2.0/Med.pdb
+/Users/miguelrosas/Projects/Med/Med/obj/Debug/netcoreapp2.0/Med.dll
+/Users/miguelrosas/Projects/Med/Med/obj/Debug/netcoreapp2.0/Med.pdb

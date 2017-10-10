@@ -1,0 +1,11 @@
+/Users/miguelrosas/Projects/medium/medium/bin/Debug/netcoreapp2.0/medium.deps.json
+/Users/miguelrosas/Projects/medium/medium/bin/Debug/netcoreapp2.0/medium.runtimeconfig.json
+/Users/miguelrosas/Projects/medium/medium/bin/Debug/netcoreapp2.0/medium.runtimeconfig.dev.json
+/Users/miguelrosas/Projects/medium/medium/bin/Debug/netcoreapp2.0/medium.dll
+/Users/miguelrosas/Projects/medium/medium/bin/Debug/netcoreapp2.0/medium.pdb
+/Users/miguelrosas/Projects/medium/medium/obj/Debug/netcoreapp2.0/medium.csprojResolveAssemblyReference.cache
+/Users/miguelrosas/Projects/medium/medium/obj/Debug/netcoreapp2.0/medium.csproj.CoreCompileInputs.cache
+/Users/miguelrosas/Projects/medium/medium/obj/Debug/netcoreapp2.0/medium.AssemblyInfoInputs.cache
+/Users/miguelrosas/Projects/medium/medium/obj/Debug/netcoreapp2.0/medium.AssemblyInfo.cs
+/Users/miguelrosas/Projects/medium/medium/obj/Debug/netcoreapp2.0/medium.dll
+/Users/miguelrosas/Projects/medium/medium/obj/Debug/netcoreapp2.0/medium.pdb
